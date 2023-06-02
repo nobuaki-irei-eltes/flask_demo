@@ -1,6 +1,5 @@
 
 ## install
-pip install --upgrade pip
 pip install flask
 ※エラーが発生した場合は、必要に応じてライブラリをインストール
 
