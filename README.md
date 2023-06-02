@@ -13,7 +13,7 @@ flaskからキーワードをグーグル検索して、結果をsearch.jsonに�
 1.ディレクトリ移動
 cd ./flask_demo
 
-2.flask　コマンド実行
+2.flask コマンド実行
 flask search xdc
 ※キーワード　xdcを検索
 
